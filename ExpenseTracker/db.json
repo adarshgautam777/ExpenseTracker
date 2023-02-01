@@ -1,0 +1,65 @@
+{
+    "accessKey": "ad7cf670-9650-11ed-b18f-204ef6f152b6",
+    "secretKey": "626e07ed-2c69-46bf-8bcc-f1fae99f944a",
+    "item_types": [
+        "Food",
+        "Beverage",
+        "Clothing",
+        "Stationaries",
+        "Electronic Devices",
+        "Wearables"
+    ],
+    "users": [
+        {
+            "name": "Adarsh",
+            "email": "adarshgautam0202@gmail.com",
+            "password": "adahytrd",
+            "username": [
+                "adi2134"
+            ],
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "wheat",
+                        "item_type": "grocery",
+                        "item_price": "200",
+                        "purchase_time": "2023-01-18 16:09:44.519683+05:30"
+                    },
+                    {
+                        "item_name": "wheat",
+                        "item_type": "grocery",
+                        "item_price": "200",
+                        "purchase_time": "2023-01-18 16:26:07.350189+05:30"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Adarsh",
+            "email": "adarshgautam0202@gmail.com",
+            "password": "adahytrd",
+            "username": [
+                "adi2134"
+            ],
+            "purchases": {}
+        },
+        {
+            "name": "Adarsh",
+            "email": "adarshgautam0202@gmail.com",
+            "password": "adahytrd",
+            "username": [
+                "Ishika weds Aditya kumar singh"
+            ],
+            "purchases": {}
+        },
+        {
+            "name": "Aditya",
+            "email": "adarshgautam0202@gmail.com",
+            "password": "adahytrd",
+            "username": [
+                "Ishika weds Aditya kumar singh"
+            ],
+            "purchases": {}
+        }
+    ]
+}
